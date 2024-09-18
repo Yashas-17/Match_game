@@ -1,0 +1,10 @@
+.tab-btn {
+  background-color: transparent;
+  border: 0;
+  color: white;
+  font-size: 25px;
+}
+.active-tab-btn {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}

@@ -1,0 +1,39 @@
+.logo-img {
+  width: 200px;
+}
+
+.score-timer-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.score-timer-container {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 200px;
+}
+.para {
+  color: white;
+  font-size: 20px;
+  margin-right: 18px;
+  text-align: center;
+}
+.score,
+.timer {
+  color: #fec653;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.timer-img-container {
+  display: flex;
+}
+.timer-img {
+  height: 35px;
+  align-self: center;
+  margin-right: 10px;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
